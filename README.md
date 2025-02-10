@@ -4,7 +4,8 @@
 This project analyzes Blinkit's sales data using key performance indicators (KPIs) and insightful visualizations. The analysis helps in understanding sales trends, product performance, and outlet-level insights.
 
 ---
-
+- 📊 **Dashboard:** .
+  - ![Dashboard](blinkit_dashboard.png)
 
 
 ## 📊 Key Performance Indicators (KPIs)
@@ -51,13 +52,13 @@ This project analyzes Blinkit's sales data using key performance indicators (KPI
 ## 📂 Files & Directories 📝
 
 - 📄 **Dataset:** [Download Here](https://drive.google.com/drive/folders/1yW3iDT4J-fcXLC-vMwbWEPXzQsaRztYf?usp=sharing) *(Provide dataset link)*
-- 📊 **Pivot Tables:** Stored in the `pivote table/` folder.
-  - ![Pivot Table 1](pivote table 1.png)
-  - ![Pivot Table 2](pivot table 2.png)
-  - ![Pivot Table 3](pivot table 3.png)
-  - ![Pivot Table 4](pivot table 4.png)
+- 📊 **Pivot Tables:** 
+  - ![Pivot Table 1](pivote_table/pivote table  1.png)
+  - ![Pivot Table 2](pivote_table/pivot table 2.png)
+  - ![Pivot Table 3](pivote_table/pivot table 3.png)
+  - ![Pivot Table 4](pivote_table/pivot table 4.png)
 - 📊 **Dashboard:** .
-  - ![Dashboard](blinkit dashboard.png)
+  - ![Dashboard](blinkit_dashboard.png)
 
 ---
 ## 🛠️ Technologies Used
