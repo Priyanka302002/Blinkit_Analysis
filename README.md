@@ -4,10 +4,10 @@
 This project analyzes Blinkit's sales data using key performance indicators (KPIs) and insightful visualizations. The analysis helps in understanding sales trends, product performance, and outlet-level insights.
 
 ---
-- 📊 **Dashboard:** .
+##  📊 **Dashboard:** .
   - ![Dashboard](blinkit_dashboard.png)
 
-
+---
 ## 📊 Key Performance Indicators (KPIs)
 
 - 🛂 **Total Sales:** A measure of overall revenue generated.
@@ -52,13 +52,12 @@ This project analyzes Blinkit's sales data using key performance indicators (KPI
 ## 📂 Files & Directories 📝
 
 - 📄 **Dataset:** [Download Here](https://drive.google.com/drive/folders/1yW3iDT4J-fcXLC-vMwbWEPXzQsaRztYf?usp=sharing) *(Provide dataset link)*
-- 📊 **Pivot Tables:** 
-  - ![Pivot Table 1](pivote_table/pivote table  1.png)
-  - ![Pivot Table 2](pivote_table/pivot table 2.png)
-  - ![Pivot Table 3](pivote_table/pivot table 3.png)
-  - ![Pivot Table 4](pivote_table/pivot table 4.png)
-- 📊 **Dashboard:** .
-  - ![Dashboard](blinkit_dashboard.png)
+- 📊 **Pivot Tables:** Stored in the pivote folder.
+  - ![Pivot Table 1](pivote/pivote_table1.png)
+  - ![Pivot Table 2](pivote/pivote_table2.png)
+  - ![Pivot Table 3](pivote/pivote_table3.png)
+  - ![Pivot Table 4](pivote/pivote_table4.png)
+
 
 ---
 ## 🛠️ Technologies Used
@@ -68,7 +67,7 @@ This project analyzes Blinkit's sales data using key performance indicators (KPI
 ---
 ## 📌 How to Use
 1. Open the `pivote_table/` folder to explore sales trends.
-2. View `dashboard_report.xlsx` for a detailed visual analysis.
+2. View `blinkit.xlsx` for a detailed visual analysis.
 3. Use the dataset for further insights and custom analysis.
 
 ---
@@ -81,8 +80,8 @@ This analysis provides actionable insights into Blinkit's sales performance, hel
 ## 🔗 Clone the Repository
 To clone this repository, run the following command:
 ```sh
- git clone <repository_link>
+ git clone <https://github.com/Priyanka302002/Blinkit_Analysis>
 ```
-(Replace `<repository_link>` with the actual repository URL)
+
 
 🚀 **Happy Analyzing!** 🔍📊
