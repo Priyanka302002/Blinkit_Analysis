@@ -4,77 +4,85 @@
 This project analyzes Blinkit's sales data using key performance indicators (KPIs) and insightful visualizations. The analysis helps in understanding sales trends, product performance, and outlet-level insights.
 
 ---
+- 📊 **Dashboard:** .
+  - ![Dashboard](blinkit dashboard.png)
+  
+
 ## 📊 Key Performance Indicators (KPIs)
 
-- 🛒 **Total Sales:** 
-- 📈 **Average Sales:** 
-- 📦 **Number of Items Sold:** 
-- ⭐ **Average Rating:** 
+- 🛂 **Total Sales:** A measure of overall revenue generated.
+- 📈 **Average Sales:** The average revenue per transaction.
+- 🛆 **Number of Items Sold:** Total products sold across outlets.
+- ⭐ **Average Rating:** Customer ratings for products and services.
 
 (Data values should be updated dynamically based on the dataset)
 
 ---
 ## 📊 Visualizations & Insights
 
-### 1️⃣ Total Sales by Fat Content 🥑
+### 1⃣ Total Sales by Fat Content 🥑
    - Comparison of total sales based on fat content in food items.
 
-### 2️⃣ Total Sales by Item Type 🍜
+### 2⃣ Total Sales by Item Type 🍜
    - Identifies top-performing product categories.
 
-### 3️⃣ Fat Content by Outlet for Total Sales 🏪
+### 3⃣ Fat Content by Outlet for Total Sales 🏦
    - Analyzes how fat content distribution impacts sales at different outlets.
 
-### 4️⃣ Sales by Outlet Size 📏
+### 4⃣ Sales by Outlet Size 📏
    - Evaluates sales distribution based on outlet sizes (Small, Medium, Large).
 
-### 5️⃣ Sales by Outlet Location 🌍
+### 5⃣ Sales by Outlet Location 🌍
    - Understands sales trends in different geographic locations.
 
-### 6️⃣ All Metrics by Outlet Type 🏢
+### 6⃣ All Metrics by Outlet Type 🏢
    - Comprehensive insights into sales, fat content, and other KPIs based on outlet types.
 
 ---
+## 📂 Features 🌻
 
-## 🎛️ Features  
-✅ **Filter Panel** – Filter data by outlet location type, outlet size, and item type.  
-✅ **Outlet Establishment Trend** – Shows growth of outlets from **2012 to 2022**.  
-✅ **Fat Content Analysis** – Breakdown of **Low Fat vs. Regular Fat** sales.  
-✅ **Item Type Distribution** – Sales distribution across various product categories.  
-✅ **Outlet Size & Location Analysis** – Insights into sales performance based on outlet size and location tier.  
-✅ **Outlet Type Comparison** – Sales, number of items, average sales, ratings, and item visibility for different outlet types.  
+- **🔍 Filter Panel:** Filter data by outlet location type, outlet size, and item type.
+- **📈 Outlet Establishment Trend:** Visualizes outlet growth from 2012 to 2022.
+- **🌮 Fat Content Analysis:** Sales breakdown by low-fat and regular-fat products.
+- **🍔 Item Type Distribution:** Sales distribution across product categories.
+- **🗓 Outlet Size & Location Analysis:** Sales insights by outlet size and location.
+- **💼 Outlet Type Comparison:** Compares different outlet types on sales, number of items, ratings, and visibility.
+
 ---
-## 📂 Files & Directories 📁
+## 📂 Files & Directories 📝
 
-- 📄 **Dataset:** [Download Here](https://drive.google.com/drive/folders/1yW3iDT4J-fcXLC-vMwbWEPXzQsaRztYf?usp=sharing) 
-- 📊 **Pivot Table:** `pivote_table.xlsx`
-- 📊 **Dashboard:** `dashboard_report.xlsx`
+- 📄 **Dataset:** [Download Here](https://drive.google.com/drive/folders/1yW3iDT4J-fcXLC-vMwbWEPXzQsaRztYf?usp=sharing) *(Provide dataset link)*
+- 📊 **Pivot Tables:** Stored in the `pivote_table/` folder.
+  - ![Pivot Table 1](pivote table/pivot table 1.png)
+  - ![Pivot Table 2](pivote table/pivot table 2.png)
+  - ![Pivot Table 3](pivote table/pivot table 3.png)
+  - ![Pivot Table 4](pivote table/pivot table 4.png)
+- 📊 **Dashboard:** .
+  - ![Dashboard](blinkit dashboard.png)
 
 ---
 ## 🛠️ Technologies Used
-- Python 🐍 (Pandas, Matplotlib, Seaborn)
 - Excel 📊 (Pivot Tables, Dashboards)
 - Data Visualization 📉
 
 ---
 ## 📌 How to Use
-1. Open `pivote_table.xlsx` to explore sales data trends.
-2. View `blinkit.xlsx` for a detailed visual analysis.
+1. Open the `pivote_table/` folder to explore sales trends.
+2. View `dashboard_report.xlsx` for a detailed visual analysis.
 3. Use the dataset for further insights and custom analysis.
 
 ---
 ## 💡 Conclusion
-This analysis provides actionable insights into Blinkit's sales performance, helping to optimize product offerings, understand outlet sales distribution, and improve customer experience.
+This analysis provides actionable insights into Blinkit's sales performance, helping optimize product offerings, understand outlet sales distribution, and improve customer experience.
 
-🎯 **Future Scope:** Advanced predictive analytics and machine learning for better demand forecasting!
+🎯 **Future Scope:** Implementing machine learning for demand forecasting and sales predictions!
 
 ---
 ## 🔗 Clone the Repository
 To clone this repository, run the following command:
 ```sh
- git clone <https://github.com/Priyanka302002/Blinkit_Analysis>
+ git clone <repository_link>
 ```
-
+(Replace `<repository_link>` with the actual repository URL)
 
 🚀 **Happy Analyzing!** 🔍📊
-
